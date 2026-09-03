@@ -1,2 +1,2 @@
 # chameleon-botwa
-(En desarrollo) chameleon-botwa es un bot de WhatsApp simple diseñado para interactuar directamente por chat y video call.
+(En desarrollo) chameleon-botwa es un bot simple diseñado para interactuar directamente por chat y video call dentro de Whatsapp.
