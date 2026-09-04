@@ -1,5 +1,5 @@
 module.exports = {
-name: "hola",
+ name: "hola",
 async execute({message}) {
- await message.reply("Saludos causa, viva peru causita gaaaaa 🇵🇪"); 
+ await message.reply("¡Hola, soy chameleon-botwa! 👋"); 
  } };
