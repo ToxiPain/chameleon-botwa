@@ -4,7 +4,6 @@ const fs = require("fs");
 const path = require("path");
 const chalk = require("chalk");
 
-
 function rainbowText(text) {
 const colors = ['red', 'yellow', 'green', 'cyan', 'blue', 'magenta'];
 let result = '';
